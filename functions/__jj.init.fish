@@ -16,7 +16,7 @@ function __jj.init
     abbr -c jj e    'edit'
     abbr jfa        'jj git fetch --all-remotes'
     abbr jf         'jj git fetch'
-    abbr jgp        'jj git push'
+    abbr jp         'jj git push'
     abbr jn         'jj new'
     abbr jna        'jj new -A'
     abbr jnb        'jj new -B'
