@@ -13,3 +13,34 @@ oh-my-fish:
 ```fish
 omf install https://github.com/kapsmudit/plugin-jj
 ```
+
+# Usage
+
+| Abbreviation | Command                                          |
+| ------------ | ------------------------------------------------ |
+| jst          | jj status                                        |
+| jsh          | jj show                                          |
+| jshs         | jj show --summary                                |
+| jl           | jj log                                           |
+| jbm          | jj bookmark move                                 |
+| jj bm        | bookmark move                                    |
+| jcl          | jj git clone --colocate                          |
+| jclo         | jj git clone --colocate --remote upstream        |
+| jd           | jj desc                                          |
+| jdm          | jj desc -m                                       |
+| jdf          | jj diff                                          |
+| jdg          | jj diff --git                                    |
+| je           | jj edit                                          |
+| jj e         | edit                                             |
+| jfa          | jj git fetch --all-remotes                       |
+| jf           | jj git fetch                                     |
+| jgp          | jj git push                                      |
+| jn           | jj new                                           |
+| jna          | jj new -A                                        |
+| jnb          | jj new -B                                        |
+| jnn          | jj new --no-edit                                 |
+| jnna         | jj new --no-edit -A                              |
+| jnnb         | jj new --no-edit -B                              |
+| jsq          | jj squash                                        |
+| jgr          | jj git remote                                    |
+| jgrl         | jj git remote list                               |
