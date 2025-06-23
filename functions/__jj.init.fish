@@ -26,4 +26,6 @@ function __jj.init
     abbr jsq        'jj squash'
     abbr jgr        'jj git remote'
     abbr jgrl       'jj git remote list'
+    abbr jrb        'jj rebase'
+    abbr ja         'jj abandon'
 end
