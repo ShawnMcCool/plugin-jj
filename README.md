@@ -23,6 +23,7 @@ omf install https://github.com/kapsmudit/plugin-jj
 | jshs         | jj show --summary                                |
 | jl           | jj log                                           |
 | jbm          | jj bookmark move                                 |
+| jbm@         | jj bookmark move --to @                          |
 | jj bm        | bookmark move                                    |
 | jcl          | jj git clone --colocate                          |
 | jclo         | jj git clone --colocate --remote upstream        |
@@ -44,6 +45,7 @@ omf install https://github.com/kapsmudit/plugin-jj
 | jnnb         | jj new --no-edit -B                              |
 | jsq          | jj squash                                        |
 | jgr          | jj git remote                                    |
+| jgra         | jj git remote add                                |
 | jgrl         | jj git remote list                               |
 | jrb          | jj rebase                                        |
 | ja           | jj abandon                                       |
