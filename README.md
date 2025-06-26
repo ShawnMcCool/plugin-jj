@@ -35,6 +35,7 @@ omf install https://github.com/kapsmudit/plugin-jj
 | jfa          | jj git fetch --all-remotes                       |
 | jf           | jj git fetch                                     |
 | jp           | jj git push                                      |
+| jpc          | jj git push -c                                   |
 | jn           | jj new                                           |
 | jna          | jj new -A                                        |
 | jnb          | jj new -B                                        |
