@@ -32,6 +32,7 @@ function __jj.init
     abbr jgra       'jj git remote add'
     abbr jgrl       'jj git remote list'
     abbr jrb        'jj rebase'
-    abbr jrbs       'jj rebase -r'
+    abbr jrbr       'jj rebase -r'
+    abbr jrbs       'jj rebase -s'
     abbr ja         'jj abandon'
 end

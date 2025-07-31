@@ -50,5 +50,6 @@ omf install https://github.com/kapsmudit/plugin-jj
 | jgra         | jj git remote add                                |
 | jgrl         | jj git remote list                               |
 | jrb          | jj rebase                                        |
+| jrbr         | jj rebase -r                                     |
 | jrbs         | jj rebase -s                                     |
 | ja           | jj abandon                                       |
