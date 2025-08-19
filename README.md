@@ -22,6 +22,8 @@ omf install https://github.com/kapsmudit/plugin-jj
 | jsh          | jj show                                          |
 | jshs         | jj show --summary                                |
 | jl           | jj log                                           |
+| jb           | jj bookmark                                      |
+| jbc          | jj bookmark create                               |
 | jbm          | jj bookmark move                                 |
 | jbm@         | jj bookmark move --to @                          |
 | jj bm        | bookmark move                                    |
@@ -37,6 +39,7 @@ omf install https://github.com/kapsmudit/plugin-jj
 | jf           | jj git fetch                                     |
 | jp           | jj git push                                      |
 | jpa          | jj git push --all                                |
+| jpb          | jj git push --bookmark                           |
 | jpc          | jj git push --change                             |
 | jpd          | jj git push --deleted                            |
 | jn           | jj new                                           |
