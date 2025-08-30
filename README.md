@@ -46,6 +46,7 @@ omf install https://github.com/kapsmudit/plugin-jj
 | jn           | jj new                                           |
 | jna          | jj new -A                                        |
 | jnb          | jj new -B                                        |
+| jnm          | jj new -m                                        |
 | jnn          | jj new --no-edit                                 |
 | jnna         | jj new --no-edit -A                              |
 | jnnb         | jj new --no-edit -B                              |

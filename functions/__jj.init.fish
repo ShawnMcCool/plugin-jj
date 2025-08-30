@@ -27,6 +27,7 @@ function __jj.init
     abbr jn         'jj new'
     abbr jna        'jj new -A'
     abbr jnb        'jj new -B'
+    abbr jnm        'jj new -m'
     abbr jnn        'jj new --no-edit'
     abbr jnna       'jj new --no-edit -A'
     abbr jnnb       'jj new --no-edit -B'
