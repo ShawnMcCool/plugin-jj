@@ -19,6 +19,7 @@ omf install https://github.com/kapsmudit/plugin-jj
 | Abbreviation | Command                                          |
 | ------------ | ------------------------------------------------ |
 | jst          | jj status                                        |
+| jsp          | jj split                                         |
 | jsh          | jj show                                          |
 | jshs         | jj show --summary                                |
 | jl           | jj log                                           |

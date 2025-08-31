@@ -31,6 +31,7 @@ function __jj.init
     abbr jnn        'jj new --no-edit'
     abbr jnna       'jj new --no-edit -A'
     abbr jnnb       'jj new --no-edit -B'
+    abbr jsp        'jj split'
     abbr jsq        'jj squash'
     abbr jgr        'jj git remote'
     abbr jgra       'jj git remote add'
